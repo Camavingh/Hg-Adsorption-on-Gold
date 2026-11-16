@@ -1,0 +1,13 @@
+Model,Surface,Adsorbate,Calculation,Nx,Ny,Layers,Vacuum_A,Atoms_Au,Site,Adsorption_Energy_eV
+MACE-MP,Au(100),Hg,4x4x4,4,4,4,12.0,64,Ontop,-0.606068
+MACE-MP,Au(100),Hg,4x4x4,4,4,4,12.0,64,Bridge,-0.771262
+MACE-MP,Au(100),Hg,4x4x4,4,4,4,12.0,64,Hollow,-0.898261
+MACE-MP,Au(100),Hg,4x4x6,4,4,6,12.0,96,Ontop,-0.607354
+MACE-MP,Au(100),Hg,4x4x6,4,4,6,12.0,96,Bridge,-0.772938
+MACE-MP,Au(100),Hg,4x4x6,4,4,6,12.0,96,Hollow,-0.900269
+MACE-MP,Au(100),Hg,5x5x6,5,5,6,12.0,150,Ontop,-0.607448
+MACE-MP,Au(100),Hg,5x5x6,5,5,6,12.0,150,Bridge,-0.774535
+MACE-MP,Au(100),Hg,5x5x6,5,5,6,12.0,150,Hollow,-0.901817
+MACE-MP,Au(100),Hg,5x5x6_vacuum16,5,5,6,16.0,150,Ontop,-0.607448
+MACE-MP,Au(100),Hg,5x5x6_vacuum16,5,5,6,16.0,150,Bridge,-0.774535
+MACE-MP,Au(100),Hg,5x5x6_vacuum16,5,5,6,16.0,150,Hollow,-0.901817
